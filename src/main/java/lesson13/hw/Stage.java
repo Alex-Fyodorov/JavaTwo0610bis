@@ -1,4 +1,4 @@
-package lesson13;
+package lesson13.hw;
 
 public abstract class Stage {
     protected int length;

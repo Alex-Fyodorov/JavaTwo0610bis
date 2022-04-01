@@ -1,4 +1,4 @@
-package lesson13;
+package lesson13.hw;
 
 public class Сar implements Runnable {
     private static int CARS_COUNT;

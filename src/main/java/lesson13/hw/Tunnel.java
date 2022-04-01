@@ -1,4 +1,4 @@
-package lesson13;
+package lesson13.hw;
 
 public class Tunnel extends Stage {
     public Tunnel() {

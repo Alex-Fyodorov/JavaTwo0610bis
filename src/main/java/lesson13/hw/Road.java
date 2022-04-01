@@ -1,4 +1,4 @@
-package lesson13;
+package lesson13.hw;
 
 public class Road extends Stage {
     public Road(int length) {
