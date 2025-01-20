@@ -1,0 +1,48 @@
+INFO  2022-04-05 12:45:20 [main] lesson14.CurrentClass (CurrentClass.java:34) - Info
+WARN  2022-04-05 12:45:20 [main] lesson14.CurrentClass (CurrentClass.java:35) - Warn
+ERROR 2022-04-05 12:45:20 [main] lesson14.CurrentClass (CurrentClass.java:36) - Error
+FATAL 2022-04-05 12:45:20 [main] lesson14.CurrentClass (CurrentClass.java:37) - Fatal
+INFO  2022-04-05 13:07:12 [main] lesson14.CurrentClass (CurrentClass.java:38) - Info
+WARN  2022-04-05 13:07:12 [main] lesson14.CurrentClass (CurrentClass.java:39) - Warn
+ERROR 2022-04-05 13:07:12 [main] lesson14.CurrentClass (CurrentClass.java:40) - Error
+FATAL 2022-04-05 13:07:12 [main] lesson14.CurrentClass (CurrentClass.java:41) - Fatal
+INFO  2022-04-05 13:14:20 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-04-05 13:14:20 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-04-05 13:14:20 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-04-06 14:53:24 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-04-06 14:53:24 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-04-06 14:53:24 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-04-06 15:34:24 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-04-06 15:34:24 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-04-06 15:34:24 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-04-06 15:43:18 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-04-06 15:43:18 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-04-06 15:43:18 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-12-06 17:26:42 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-12-06 17:26:42 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-12-06 17:26:42 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:38) - Info
+WARN  2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:39) - Warn
+ERROR 2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:40) - Error
+FATAL 2022-12-06 17:37:13 [main] lesson14.CurrentClass (CurrentClass.java:41) - Fatal
+WARN  2022-12-06 17:37:43 [main] lesson14.CurrentClass (CurrentClass.java:39) - Warn
+ERROR 2022-12-06 17:37:43 [main] lesson14.CurrentClass (CurrentClass.java:40) - Error
+FATAL 2022-12-06 17:37:43 [main] lesson14.CurrentClass (CurrentClass.java:41) - Fatal
+INFO  2022-12-06 17:45:08 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2022-12-06 17:45:08 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2022-12-06 17:45:08 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2023-03-03 11:50:01 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2023-03-03 11:50:01 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2023-03-03 11:50:01 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2023-03-03 11:52:30 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2023-03-03 11:52:30 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2023-03-03 11:52:30 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2023-03-03 11:53:28 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2023-03-03 11:53:28 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2023-03-03 11:53:28 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
+INFO  2023-03-03 11:55:04 [main] lesson14.CurrentClass (CurrentClass.java:20) - a = 50
+INFO  2023-03-03 11:55:04 [main] lesson14.CurrentClass (CurrentClass.java:25) - b = 10
+INFO  2023-03-03 11:55:04 [main] lesson14.CurrentClass (CurrentClass.java:30) - c = 50 + 10 = 60
