@@ -16,8 +16,8 @@ public class SemaphoreApp {
                 } catch (Exception e) {
 
                 } finally {
-                    semaphore.release();
                     System.out.println("Поток " + w + " освободил ресурс");
+                    semaphore.release();
                 }
             }).start();
         }
